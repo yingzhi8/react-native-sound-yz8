@@ -1,6 +1,6 @@
 ---
 name: ❓Get help
-about: Get help using react-native-sound in your project
+about: Get help using react-native-sound-yz8 in your project
 labels: 'question'
 ---
 

@@ -1,5 +1,5 @@
-// Type definitions for react-native-sound
-// Project: https://github.com/yingzhi8/react-native-sound
+// Type definitions for react-native-sound-yz8
+// Project: https://github.com/yingzhi8/react-native-sound-yz8
 // Definitions by: Kyle Roach <https://github.com/iRoachie>
 // TypeScript Version: 2.3.2
 

@@ -1,10 +1,10 @@
 {
-  "name": "react-native-sound",
+  "name": "react-native-sound-yz8",
   "version": "0.11.0",
   "description": "React Native module for playing sound clips on iOS, Android, and Windows",
   "main": "sound.js",
   "typings": "index.d.ts",
-  "repository": "yingzhi8/react-native-sound",
+  "repository": "yingzhi8/react-native-sound-yz8",
   "keywords": [
     "react-native",
     "sound",
